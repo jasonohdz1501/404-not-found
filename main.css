@@ -103,7 +103,7 @@ body {
 }
 
 /* Responsive */
-@media (max-width: 376px) {
+@media (max-width: 426px) {
   .container {
     margin-top: 0;
     width: 375px;
